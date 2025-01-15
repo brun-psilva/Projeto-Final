@@ -49,11 +49,20 @@ Na arquitetura modernizada, a aplicação é executada em um ambiente altamente 
 ## Imagens de Referência
 
 - **Arquitetura Atual:**
-![Arquitetura Atual](image1.png)
+[Diagrama no Drawio (Arquitetura Atual)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=etapa1.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1rNQtkXF_XuP33qqKmyob-6uMAzVxBKxZ%26export%3Ddownload)
 
 - **Arquitetura Proposta:**
-![Arquitetura Proposta](image2.png)
+[Diagrama no Drawio (Arquitetura Proposta)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=etapa2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D18OqixTgRhxT66cUyXdYqxdQq_Ym5w7XI%26export%3Ddownload)
 
+---
+
+## Cálculo de Custos
+
+Para estimar os custos associados a esta arquitetura, utilize a [AWS Pricing Calculator](https://calculator.aws/#/). Essa ferramenta permite simular os custos de execução dos serviços utilizados, considerando diferentes níveis de utilização e requisitos.
+
+ - **Estimativa de Custos As-is** 
+[Calculadora Etapa 1]()
+[Calculadora Etapa 2] (https://calculator.aws/#/estimate?id=2493cd5046425e78d778e102e19d3ea6bfcda855)
 ---
 
 ## Considerações Finais
