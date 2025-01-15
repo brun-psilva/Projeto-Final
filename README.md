@@ -61,7 +61,7 @@ Na arquitetura modernizada, a aplicação é executada em um ambiente altamente 
 Para estimar os custos associados a esta arquitetura, utilize a [AWS Pricing Calculator](https://calculator.aws/#/). Essa ferramenta permite simular os custos de execução dos serviços utilizados, considerando diferentes níveis de utilização e requisitos.
 
  - **Estimativa de Custos As-is** 
-[Calculadora Etapa 1]()
+[Calculadora Etapa 1](https://calculator.aws/#/estimate?id=4e12a452b7ee9c835f41840a12519d6cf8e9fc4d)
 [Calculadora Etapa 2] (https://calculator.aws/#/estimate?id=2493cd5046425e78d778e102e19d3ea6bfcda855)
 ---
 
