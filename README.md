@@ -15,6 +15,7 @@ Este repositório contém a documentação e os diagramas relacionados à transi
 - [Cálculo de Custos](#cálculo-de-custos)
 - [Detalhamento da Modernização](#detalhamento-da-modernização)
 - [Documentações de Referência](#documentações-de-referência)
+- [Apresentação Final](#apresentação-final)
 - [Considerações Finais](#considerações-finais)
 
 ## Introdução
@@ -131,6 +132,8 @@ Para informações mais detalhadas e melhores práticas relacionadas à implemen
 - [AWS Backup Documentation](https://docs.aws.amazon.com/backup/) <img src="https://www.svgrepo.com/show/394021/aws.svg" alt="Ícone da AWS" width="15">
 
 ---
+## Apresentação final
+Acesse a nossa apresentação [Aqui](https://github.com/brun-psilva/Projeto-Final/blob/be153328ca4cae8486028b8caaed6e05716929b5/PDF%20PB%20Final%20-%20Compass.pdf)
 
 ## Considerações Finais
 
